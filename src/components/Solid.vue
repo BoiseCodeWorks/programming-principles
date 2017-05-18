@@ -14,7 +14,7 @@
 export default {
     name: 'solid',
     data () {
-        return {
+       return {
             solid: 'SOLID'
         }
     }
